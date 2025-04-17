@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/bhushan/Documents/Modular_Monolithic_Architecture_Db_Library-main/logs/debug/.271b6c067847b3f142646e09871d314f0ad1cab2-audit.json",
+    "files": [
+        {
+            "date": 1744784383285,
+            "name": "/Users/bhushan/Documents/Modular_Monolithic_Architecture_Db_Library-main/logs/debug/2025-04-16.log",
+            "hash": "7bbff509fb0b702351cf95fe38cdb831883234116c7c12afc20a09fc719ca093"
+        }
+    ],
+    "hashType": "sha256"
+}

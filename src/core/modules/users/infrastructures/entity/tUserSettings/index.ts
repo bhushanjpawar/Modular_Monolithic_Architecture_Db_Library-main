@@ -28,3 +28,4 @@ export class UserSettingsEntity extends BaseEntity {
 	@JoinColumn({ name: 'userId', referencedColumnName: 'identifier' })
 	public users?: UserEntity;
 }
+
